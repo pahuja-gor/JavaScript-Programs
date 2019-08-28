@@ -1,0 +1,22 @@
+{
+  "name": "p5",
+  "version": "1.0.0",
+  "description": "Configuration for p5 Project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^5.7.1",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "p5.js",
+    "node"
+  ],
+  "author": "Goral Pahuja",
+  "license": "ISC"
+}
